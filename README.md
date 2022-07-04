@@ -1,6 +1,4 @@
----
-title:'NS8 Front End App'
----
+------
 
 ## How to start the App
 First, to install all the dependencies
